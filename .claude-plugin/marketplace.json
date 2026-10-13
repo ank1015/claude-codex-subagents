@@ -1,0 +1,13 @@
+{
+  "name": "codex-full-access",
+  "description": "Codex native Claude Code subagents with full access and session-isolated persistence. Based on SSS135/claude-code-codex-plugin.",
+  "owner": {
+    "name": "ank1015"
+  },
+  "plugins": [
+    {
+      "name": "codex",
+      "source": "./"
+    }
+  ]
+}
